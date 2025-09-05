@@ -1,0 +1,2 @@
+Leia um número inteiro e apresente a tabuada
+do número digitado.
