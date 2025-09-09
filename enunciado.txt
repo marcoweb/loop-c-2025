@@ -1,2 +1,5 @@
-Leia um número inteiro e apresente a tabuada
-do número digitado.
+Algoritmo que leia idades até que seja
+informado um valor negativo e classifica
+como "Criança" (0-12 anos),
+"Adolescente" (13-17 anos),
+"Adulto" (18-59 anos) ou "Idoso" (60+ anos).
